@@ -33,70 +33,72 @@
     },
     "guideData": [
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 1",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HVJW0e1.jpg",
+      "title": "knife for standoff 1",
+        "text_Content": "In many scenarios, especially in the realm of law enforcement, the use of a knife can be a powerful tool for creating distance and potentially saving lives. A knife for standoff situations can be an effective option for law enforcement and security personnel, as it allows them to maintain a safe distance from a subject while still being able to control the situation. ",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 2",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HVJWYgV.jpg",
+      "title": "knife for standoff 2",
+        "text_Content": "In this article, we will explore the different types of knives for standoff situations, the advantages and disadvantages of each type, and the important factors to consider when choosing a knife for this purpose.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 3",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HVJWl5P.jpg",
+      "title": "knife for standoff 3",
+        "text_Content": "Fixed Blade Knives: Fixed blade knives are knives that have a blade that is permanently attached to the handle. These knives are typically more durable and stronger than folding knives, which makes them ideal for high-stress situations. They can also be easier to deploy quickly, which is important in standoff situations. Fixed blade knives can come in various shapes and sizes, from small neck knives to large Bowie knives.",
+        "text_Content_1": ""
 
 
 
       
     }
     ,{
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 4",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HVJWuWb.jpg",
+      "title": "knife for standoff 4",
+        "text_Content": "Folding Knives: Folding knives are knives that have a blade that can be folded into the handle. These knives are often more compact and easier to carry than fixed blade knives. They can also be easier to conceal, which is important for law enforcement personnel who may need to approach a suspect without being detected. However, folding knives can be less durable than fixed blade knives, and they may take longer to deploy in a high-stress situation.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 5",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HVJW70Q.jpg",
+      "title": "knife for standoff 5",
+        "text_Content": "Automatic Knives: Automatic knives are knives that have a spring-loaded blade that can be deployed with the push of a button or other mechanism. These knives are often faster to deploy than other types of knives, which can be an advantage in a standoff situation. However, they are often subject to strict legal restrictions, and they can be more expensive than other types of knives.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 6",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HVJWAsj.jpg",
+      "title": "knife for standoff 6",
+        "text_Content": "Assisted Opening Knives: Assisted opening knives are knives that have a mechanism that helps to deploy the blade quickly, usually by using a spring or other mechanism. These knives can be faster to deploy than traditional folding knives, but they are generally not as fast as automatic knives. They can also be less expensive than automatic knives, and they may be legal in areas where automatic knives are restricted.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 7",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HVJW5qx.jpg",
+      "title": "knife for standoff 7",
+        "text_Content": "Durability: Fixed blade knives are often more durable than folding knives because they do not have any moving parts that can break.
+Strength: The blade of a fixed blade knife is typically stronger than that of a folding knife because it does not have to be thin enough to fit inside the handle.
+Quick Deployment: Fixed blade knives can be deployed quickly because there are no mechanisms or other parts that need to be activated.",
+        "text_Content_1": ""
 
 
 
